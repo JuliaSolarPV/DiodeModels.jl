@@ -24,6 +24,9 @@ on:
       codecov_token:
         required: false
 
+permissions:
+  contents: read
+
 jobs:
   test:
     runs-on: ${{ inputs.os }}
