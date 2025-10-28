@@ -1,12 +1,7 @@
 using DiodeModels
 using Documenter
 
-DocMeta.setdocmeta!(
-    DiodeModels,
-    :DocTestSetup,
-    :(using DiodeModels);
-    recursive = true,
-)
+DocMeta.setdocmeta!(DiodeModels, :DocTestSetup, :(using DiodeModels); recursive = true)
 
 makedocs(;
     modules = [DiodeModels],
