@@ -1,0 +1,3 @@
+module DiodeModels
+
+end # module

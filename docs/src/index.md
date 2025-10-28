@@ -1,3 +1,7 @@
+```@meta
+CurrentModule = DiodeModels
+```
+
 # DiodeModels.jl
 
 [![Development documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaSolarPV.github.io/DiodeModels.jl/dev)
