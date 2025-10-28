@@ -1,0 +1,16 @@
+name = "DiodeModels"
+uuid = "78dfb938-475e-4bd6-bcfe-985e3579656d"
+authors = ["JuliaSolarPV contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[workspace]
+projects = ["test", "docs"]

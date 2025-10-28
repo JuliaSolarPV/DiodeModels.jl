@@ -1,3 +1,7 @@
+```@meta
+CurrentModule = DiodeModels
+```
+
 # DiodeModels.jl
 
 [![Development documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaSolarPV.github.io/DiodeModels.jl/dev)
@@ -30,10 +34,6 @@ using DiodeModels
 
 # Example code will be added as the package develops
 ```
-
-## Documentation
-
-For detailed documentation, please visit [https://JuliaSolarPV.github.io/DiodeModels.jl/dev](https://JuliaSolarPV.github.io/DiodeModels.jl/dev)
 
 ## Contributing
 
